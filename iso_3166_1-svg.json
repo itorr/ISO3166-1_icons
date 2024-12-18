@@ -1,0 +1,2492 @@
+[
+	{
+		"英文短名称": "Afghanistan",
+		"二位代码": "AF",
+		"三位代码": "AFG",
+		"数字代码": "004",
+		"ISO 3166-2": "ISO 3166-2:AF",
+		"中文名称": "阿富汗",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg"
+	},
+	{
+		"英文短名称": "Åland Islands",
+		"二位代码": "AX",
+		"三位代码": "ALA",
+		"数字代码": "248",
+		"ISO 3166-2": "ISO 3166-2:AX",
+		"中文名称": "奥兰",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/5/52/Flag_of_%C3%85land.svg"
+	},
+	{
+		"英文短名称": "Albania",
+		"二位代码": "AL",
+		"三位代码": "ALB",
+		"数字代码": "008",
+		"ISO 3166-2": "ISO 3166-2:AL",
+		"中文名称": "阿尔巴尼亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg"
+	},
+	{
+		"英文短名称": "Algeria",
+		"二位代码": "DZ",
+		"三位代码": "DZA",
+		"数字代码": "012",
+		"ISO 3166-2": "ISO 3166-2:DZ",
+		"中文名称": "阿尔及利亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg"
+	},
+	{
+		"英文短名称": "American Samoa",
+		"二位代码": "AS",
+		"三位代码": "ASM",
+		"数字代码": "016",
+		"ISO 3166-2": "ISO 3166-2:AS",
+		"中文名称": "美属萨摩亚",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg"
+	},
+	{
+		"英文短名称": "Andorra",
+		"二位代码": "AD",
+		"三位代码": "AND",
+		"数字代码": "020",
+		"ISO 3166-2": "ISO 3166-2:AD",
+		"中文名称": "安道尔",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg"
+	},
+	{
+		"英文短名称": "Angola",
+		"二位代码": "AO",
+		"三位代码": "AGO",
+		"数字代码": "024",
+		"ISO 3166-2": "ISO 3166-2:AO",
+		"中文名称": "安哥拉",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg"
+	},
+	{
+		"英文短名称": "Anguilla",
+		"二位代码": "AI",
+		"三位代码": "AIA",
+		"数字代码": "660",
+		"ISO 3166-2": "ISO 3166-2:AI",
+		"中文名称": "安圭拉",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Anguilla.svg"
+	},
+	{
+		"英文短名称": "Antarctica",
+		"二位代码": "AQ",
+		"三位代码": "ATA",
+		"数字代码": "010",
+		"ISO 3166-2": "ISO 3166-2:AQ",
+		"中文名称": "南极洲",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Proposed_flag_of_Antarctica_%28Graham_Bartram%29.svg"
+	},
+	{
+		"英文短名称": "Antigua and Barbuda",
+		"二位代码": "AG",
+		"三位代码": "ATG",
+		"数字代码": "028",
+		"ISO 3166-2": "ISO 3166-2:AG",
+		"中文名称": "安提瓜和巴布达",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg"
+	},
+	{
+		"英文短名称": "Argentina",
+		"二位代码": "AR",
+		"三位代码": "ARG",
+		"数字代码": "032",
+		"ISO 3166-2": "ISO 3166-2:AR",
+		"中文名称": "阿根廷",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+	},
+	{
+		"英文短名称": "Armenia",
+		"二位代码": "AM",
+		"三位代码": "ARM",
+		"数字代码": "051",
+		"ISO 3166-2": "ISO 3166-2:AM",
+		"中文名称": "亚美尼亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg"
+	},
+	{
+		"英文短名称": "Aruba",
+		"二位代码": "AW",
+		"三位代码": "ABW",
+		"数字代码": "533",
+		"ISO 3166-2": "ISO 3166-2:AW",
+		"中文名称": "阿鲁巴",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Aruba.svg"
+	},
+	{
+		"英文短名称": "Australia",
+		"二位代码": "AU",
+		"三位代码": "AUS",
+		"数字代码": "036",
+		"ISO 3166-2": "ISO 3166-2:AU",
+		"中文名称": "澳大利亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg"
+	},
+	{
+		"英文短名称": "Austria",
+		"二位代码": "AT",
+		"三位代码": "AUT",
+		"数字代码": "040",
+		"ISO 3166-2": "ISO 3166-2:AT",
+		"中文名称": "奥地利",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg"
+	},
+	{
+		"英文短名称": "Azerbaijan",
+		"二位代码": "AZ",
+		"三位代码": "AZE",
+		"数字代码": "031",
+		"ISO 3166-2": "ISO 3166-2:AZ",
+		"中文名称": "阿塞拜疆",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg"
+	},
+	{
+		"英文短名称": "Bahamas",
+		"二位代码": "BS",
+		"三位代码": "BHS",
+		"数字代码": "044",
+		"ISO 3166-2": "ISO 3166-2:BS",
+		"中文名称": "巴哈马",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg"
+	},
+	{
+		"英文短名称": "Bahrain",
+		"二位代码": "BH",
+		"三位代码": "BHR",
+		"数字代码": "048",
+		"ISO 3166-2": "ISO 3166-2:BH",
+		"中文名称": "巴林",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg"
+	},
+	{
+		"英文短名称": "Bangladesh",
+		"二位代码": "BD",
+		"三位代码": "BGD",
+		"数字代码": "050",
+		"ISO 3166-2": "ISO 3166-2:BD",
+		"中文名称": "孟加拉国",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
+	},
+	{
+		"英文短名称": "Barbados",
+		"二位代码": "BB",
+		"三位代码": "BRB",
+		"数字代码": "052",
+		"ISO 3166-2": "ISO 3166-2:BB",
+		"中文名称": "巴巴多斯",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Barbados.svg"
+	},
+	{
+		"英文短名称": "Belarus",
+		"二位代码": "BY",
+		"三位代码": "BLR",
+		"数字代码": "112",
+		"ISO 3166-2": "ISO 3166-2:BY",
+		"中文名称": "白俄罗斯",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg"
+	},
+	{
+		"英文短名称": "Belgium",
+		"二位代码": "BE",
+		"三位代码": "BEL",
+		"数字代码": "056",
+		"ISO 3166-2": "ISO 3166-2:BE",
+		"中文名称": "比利时",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Belgium_%28civil%29.svg"
+	},
+	{
+		"英文短名称": "Belize",
+		"二位代码": "BZ",
+		"三位代码": "BLZ",
+		"数字代码": "084",
+		"ISO 3166-2": "ISO 3166-2:BZ",
+		"中文名称": "伯利兹",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg"
+	},
+	{
+		"英文短名称": "Benin",
+		"二位代码": "BJ",
+		"三位代码": "BEN",
+		"数字代码": "204",
+		"ISO 3166-2": "ISO 3166-2:BJ",
+		"中文名称": "贝宁",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg"
+	},
+	{
+		"英文短名称": "Bermuda",
+		"二位代码": "BM",
+		"三位代码": "BMU",
+		"数字代码": "060",
+		"ISO 3166-2": "ISO 3166-2:BM",
+		"中文名称": "百慕大",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bermuda.svg"
+	},
+	{
+		"英文短名称": "Bhutan",
+		"二位代码": "BT",
+		"三位代码": "BTN",
+		"数字代码": "064",
+		"ISO 3166-2": "ISO 3166-2:BT",
+		"中文名称": "不丹",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg"
+	},
+	{
+		"英文短名称": "Bolivia (Plurinational State of)",
+		"二位代码": "BO",
+		"三位代码": "BOL",
+		"数字代码": "068",
+		"ISO 3166-2": "ISO 3166-2:BO",
+		"中文名称": "玻利维亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Bolivia.svg"
+	},
+	{
+		"英文短名称": "Bonaire, Sint Eustatius and Saba",
+		"二位代码": "BQ",
+		"三位代码": "BES",
+		"数字代码": "535",
+		"ISO 3166-2": "ISO 3166-2:BQ",
+		"中文名称": "荷兰加勒比区",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg"
+	},
+	{
+		"英文短名称": "Bosnia and Herzegovina",
+		"二位代码": "BA",
+		"三位代码": "BIH",
+		"数字代码": "070",
+		"ISO 3166-2": "ISO 3166-2:BA",
+		"中文名称": "波黑",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg"
+	},
+	{
+		"英文短名称": "Botswana",
+		"二位代码": "BW",
+		"三位代码": "BWA",
+		"数字代码": "072",
+		"ISO 3166-2": "ISO 3166-2:BW",
+		"中文名称": "博茨瓦纳",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg"
+	},
+	{
+		"英文短名称": "Bouvet Island",
+		"二位代码": "BV",
+		"三位代码": "BVT",
+		"数字代码": "074",
+		"ISO 3166-2": "ISO 3166-2:BV",
+		"中文名称": "布韦岛",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg"
+	},
+	{
+		"英文短名称": "Brazil",
+		"二位代码": "BR",
+		"三位代码": "BRA",
+		"数字代码": "076",
+		"ISO 3166-2": "ISO 3166-2:BR",
+		"中文名称": "巴西",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"
+	},
+	{
+		"英文短名称": "British Indian Ocean Territory",
+		"二位代码": "IO",
+		"三位代码": "IOT",
+		"数字代码": "086",
+		"ISO 3166-2": "ISO 3166-2:IO",
+		"中文名称": "英属印度洋领地",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg"
+	},
+	{
+		"英文短名称": "Brunei Darussalam",
+		"二位代码": "BN",
+		"三位代码": "BRN",
+		"数字代码": "096",
+		"ISO 3166-2": "ISO 3166-2:BN",
+		"中文名称": "文莱",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Brunei.svg"
+	},
+	{
+		"英文短名称": "Bulgaria",
+		"二位代码": "BG",
+		"三位代码": "BGR",
+		"数字代码": "100",
+		"ISO 3166-2": "ISO 3166-2:BG",
+		"中文名称": "保加利亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg"
+	},
+	{
+		"英文短名称": "Burkina Faso",
+		"二位代码": "BF",
+		"三位代码": "BFA",
+		"数字代码": "854",
+		"ISO 3166-2": "ISO 3166-2:BF",
+		"中文名称": "布基纳法索",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg"
+	},
+	{
+		"英文短名称": "Burundi",
+		"二位代码": "BI",
+		"三位代码": "BDI",
+		"数字代码": "108",
+		"ISO 3166-2": "ISO 3166-2:BI",
+		"中文名称": "布隆迪",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg"
+	},
+	{
+		"英文短名称": "Cabo Verde",
+		"二位代码": "CV",
+		"三位代码": "CPV",
+		"数字代码": "132",
+		"ISO 3166-2": "ISO 3166-2:CV",
+		"中文名称": "佛得角",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Cape_Verde.svg"
+	},
+	{
+		"英文短名称": "Cambodia",
+		"二位代码": "KH",
+		"三位代码": "KHM",
+		"数字代码": "116",
+		"ISO 3166-2": "ISO 3166-2:KH",
+		"中文名称": "柬埔寨",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg"
+	},
+	{
+		"英文短名称": "Cameroon",
+		"二位代码": "CM",
+		"三位代码": "CMR",
+		"数字代码": "120",
+		"ISO 3166-2": "ISO 3166-2:CM",
+		"中文名称": "喀麦隆",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg"
+	},
+	{
+		"英文短名称": "Canada",
+		"二位代码": "CA",
+		"三位代码": "CAN",
+		"数字代码": "124",
+		"ISO 3166-2": "ISO 3166-2:CA",
+		"中文名称": "加拿大",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg"
+	},
+	{
+		"英文短名称": "Cayman Islands",
+		"二位代码": "KY",
+		"三位代码": "CYM",
+		"数字代码": "136",
+		"ISO 3166-2": "ISO 3166-2:KY",
+		"中文名称": "开曼群岛",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_the_Cayman_Islands.svg"
+	},
+	{
+		"英文短名称": "Central African Republic",
+		"二位代码": "CF",
+		"三位代码": "CAF",
+		"数字代码": "140",
+		"ISO 3166-2": "ISO 3166-2:CF",
+		"中文名称": "中非",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Central_African_Republic.svg"
+	},
+	{
+		"英文短名称": "Chad",
+		"二位代码": "TD",
+		"三位代码": "TCD",
+		"数字代码": "148",
+		"ISO 3166-2": "ISO 3166-2:TD",
+		"中文名称": "乍得",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg"
+	},
+	{
+		"英文短名称": "Chile",
+		"二位代码": "CL",
+		"三位代码": "CHL",
+		"数字代码": "152",
+		"ISO 3166-2": "ISO 3166-2:CL",
+		"中文名称": "智利",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg"
+	},
+	{
+		"英文短名称": "China",
+		"二位代码": "CN",
+		"三位代码": "CHN",
+		"数字代码": "156",
+		"ISO 3166-2": "ISO 3166-2:CN",
+		"中文名称": "中国",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+	},
+	{
+		"英文短名称": "Christmas Island",
+		"二位代码": "CX",
+		"三位代码": "CXR",
+		"数字代码": "162",
+		"ISO 3166-2": "ISO 3166-2:CX",
+		"中文名称": "圣诞岛",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/6/67/Flag_of_Christmas_Island.svg"
+	},
+	{
+		"英文短名称": "Cocos (Keeling) Islands",
+		"二位代码": "CC",
+		"三位代码": "CCK",
+		"数字代码": "166",
+		"ISO 3166-2": "ISO 3166-2:CC",
+		"中文名称": "科科斯（基林）群岛",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Cocos_%28Keeling%29_Islands.svg"
+	},
+	{
+		"英文短名称": "Colombia",
+		"二位代码": "CO",
+		"三位代码": "COL",
+		"数字代码": "170",
+		"ISO 3166-2": "ISO 3166-2:CO",
+		"中文名称": "哥伦比亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg"
+	},
+	{
+		"英文短名称": "Comoros",
+		"二位代码": "KM",
+		"三位代码": "COM",
+		"数字代码": "174",
+		"ISO 3166-2": "ISO 3166-2:KM",
+		"中文名称": "科摩罗",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg"
+	},
+	{
+		"英文短名称": "Congo",
+		"二位代码": "CG",
+		"三位代码": "COG",
+		"数字代码": "178",
+		"ISO 3166-2": "ISO 3166-2:CG",
+		"中文名称": "刚果共和国",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg"
+	},
+	{
+		"英文短名称": "Congo (Democratic Republic of the)",
+		"二位代码": "CD",
+		"三位代码": "COD",
+		"数字代码": "180",
+		"ISO 3166-2": "ISO 3166-2:CD",
+		"中文名称": "刚果民主共和国",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg"
+	},
+	{
+		"英文短名称": "Cook Islands",
+		"二位代码": "CK",
+		"三位代码": "COK",
+		"数字代码": "184",
+		"ISO 3166-2": "ISO 3166-2:CK",
+		"中文名称": "库克群岛",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_the_Cook_Islands.svg"
+	},
+	{
+		"英文短名称": "Costa Rica",
+		"二位代码": "CR",
+		"三位代码": "CRI",
+		"数字代码": "188",
+		"ISO 3166-2": "ISO 3166-2:CR",
+		"中文名称": "哥斯达黎加",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg"
+	},
+	{
+		"英文短名称": "Côte d'Ivoire",
+		"二位代码": "CI",
+		"三位代码": "CIV",
+		"数字代码": "384",
+		"ISO 3166-2": "ISO 3166-2:CI",
+		"中文名称": "科特迪瓦",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg"
+	},
+	{
+		"英文短名称": "Croatia",
+		"二位代码": "HR",
+		"三位代码": "HRV",
+		"数字代码": "191",
+		"ISO 3166-2": "ISO 3166-2:HR",
+		"中文名称": "克罗地亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg"
+	},
+	{
+		"英文短名称": "Cuba",
+		"二位代码": "CU",
+		"三位代码": "CUB",
+		"数字代码": "192",
+		"ISO 3166-2": "ISO 3166-2:CU",
+		"中文名称": "古巴",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg"
+	},
+	{
+		"英文短名称": "Curacao !Curaçao",
+		"二位代码": "CW",
+		"三位代码": "CUW",
+		"数字代码": "531",
+		"ISO 3166-2": "ISO 3166-2:CW",
+		"中文名称": "库拉索",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_Cura%C3%A7ao.svg"
+	},
+	{
+		"英文短名称": "Cyprus",
+		"二位代码": "CY",
+		"三位代码": "CYP",
+		"数字代码": "196",
+		"ISO 3166-2": "ISO 3166-2:CY",
+		"中文名称": "塞浦路斯",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg"
+	},
+	{
+		"英文短名称": "Czechia",
+		"二位代码": "CZ",
+		"三位代码": "CZE",
+		"数字代码": "203",
+		"ISO 3166-2": "ISO 3166-2:CZ",
+		"中文名称": "捷克",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg"
+	},
+	{
+		"英文短名称": "Denmark",
+		"二位代码": "DK",
+		"三位代码": "DNK",
+		"数字代码": "208",
+		"ISO 3166-2": "ISO 3166-2:DK",
+		"中文名称": "丹麦",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg"
+	},
+	{
+		"英文短名称": "Djibouti",
+		"二位代码": "DJ",
+		"三位代码": "DJI",
+		"数字代码": "262",
+		"ISO 3166-2": "ISO 3166-2:DJ",
+		"中文名称": "吉布提",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_Djibouti.svg"
+	},
+	{
+		"英文短名称": "Dominica",
+		"二位代码": "DM",
+		"三位代码": "DMA",
+		"数字代码": "212",
+		"ISO 3166-2": "ISO 3166-2:DM",
+		"中文名称": "多米尼克",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg"
+	},
+	{
+		"英文短名称": "Dominican Republic",
+		"二位代码": "DO",
+		"三位代码": "DOM",
+		"数字代码": "214",
+		"ISO 3166-2": "ISO 3166-2:DO",
+		"中文名称": "多米尼加",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg"
+	},
+	{
+		"英文短名称": "Ecuador",
+		"二位代码": "EC",
+		"三位代码": "ECU",
+		"数字代码": "218",
+		"ISO 3166-2": "ISO 3166-2:EC",
+		"中文名称": "厄瓜多尔",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg"
+	},
+	{
+		"英文短名称": "Egypt",
+		"二位代码": "EG",
+		"三位代码": "EGY",
+		"数字代码": "818",
+		"ISO 3166-2": "ISO 3166-2:EG",
+		"中文名称": "埃及",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
+	},
+	{
+		"英文短名称": "El Salvador",
+		"二位代码": "SV",
+		"三位代码": "SLV",
+		"数字代码": "222",
+		"ISO 3166-2": "ISO 3166-2:SV",
+		"中文名称": "萨尔瓦多",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg"
+	},
+	{
+		"英文短名称": "Equatorial Guinea",
+		"二位代码": "GQ",
+		"三位代码": "GNQ",
+		"数字代码": "226",
+		"ISO 3166-2": "ISO 3166-2:GQ",
+		"中文名称": "赤道几内亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg"
+	},
+	{
+		"英文短名称": "Eritrea",
+		"二位代码": "ER",
+		"三位代码": "ERI",
+		"数字代码": "232",
+		"ISO 3166-2": "ISO 3166-2:ER",
+		"中文名称": "厄立特里亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg"
+	},
+	{
+		"英文短名称": "Estonia",
+		"二位代码": "EE",
+		"三位代码": "EST",
+		"数字代码": "233",
+		"ISO 3166-2": "ISO 3166-2:EE",
+		"中文名称": "爱沙尼亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg"
+	},
+	{
+		"英文短名称": "Eswatini",
+		"二位代码": "SZ",
+		"三位代码": "SWZ",
+		"数字代码": "748",
+		"ISO 3166-2": "ISO 3166-2:SZ",
+		"中文名称": "斯威士兰",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg"
+	},
+	{
+		"英文短名称": "Ethiopia",
+		"二位代码": "ET",
+		"三位代码": "ETH",
+		"数字代码": "231",
+		"ISO 3166-2": "ISO 3166-2:ET",
+		"中文名称": "埃塞俄比亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg"
+	},
+	{
+		"英文短名称": "Falkland Islands (Malvinas)",
+		"二位代码": "FK",
+		"三位代码": "FLK",
+		"数字代码": "238",
+		"ISO 3166-2": "ISO 3166-2:FK",
+		"中文名称": "福克兰群岛",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_Falkland_Islands.svg"
+	},
+	{
+		"英文短名称": "Faroe Islands",
+		"二位代码": "FO",
+		"三位代码": "FRO",
+		"数字代码": "234",
+		"ISO 3166-2": "ISO 3166-2:FO",
+		"中文名称": "法罗群岛",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Flag_of_the_Faroe_Islands.svg"
+	},
+	{
+		"英文短名称": "Fiji",
+		"二位代码": "FJ",
+		"三位代码": "FJI",
+		"数字代码": "242",
+		"ISO 3166-2": "ISO 3166-2:FJ",
+		"中文名称": "斐济",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg"
+	},
+	{
+		"英文短名称": "Finland",
+		"二位代码": "FI",
+		"三位代码": "FIN",
+		"数字代码": "246",
+		"ISO 3166-2": "ISO 3166-2:FI",
+		"中文名称": "芬兰",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg"
+	},
+	{
+		"英文短名称": "France",
+		"二位代码": "FR",
+		"三位代码": "FRA",
+		"数字代码": "250",
+		"ISO 3166-2": "ISO 3166-2:FR",
+		"中文名称": "法国",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"
+	},
+	{
+		"英文短名称": "French Guiana",
+		"二位代码": "GF",
+		"三位代码": "GUF",
+		"数字代码": "254",
+		"ISO 3166-2": "ISO 3166-2:GF",
+		"中文名称": "法属圭亚那",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_French_Guiana.svg"
+	},
+	{
+		"英文短名称": "French Polynesia",
+		"二位代码": "PF",
+		"三位代码": "PYF",
+		"数字代码": "258",
+		"ISO 3166-2": "ISO 3166-2:PF",
+		"中文名称": "法属波利尼西亚",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/d/db/Flag_of_French_Polynesia.svg"
+	},
+	{
+		"英文短名称": "French Southern Territories",
+		"二位代码": "TF",
+		"三位代码": "ATF",
+		"数字代码": "260",
+		"ISO 3166-2": "ISO 3166-2:TF",
+		"中文名称": "法属南部和南极领地",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Flag_of_the_French_Southern_and_Antarctic_Lands.svg"
+	},
+	{
+		"英文短名称": "Gabon",
+		"二位代码": "GA",
+		"三位代码": "GAB",
+		"数字代码": "266",
+		"ISO 3166-2": "ISO 3166-2:GA",
+		"中文名称": "加蓬",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg"
+	},
+	{
+		"英文短名称": "Gambia",
+		"二位代码": "GM",
+		"三位代码": "GMB",
+		"数字代码": "270",
+		"ISO 3166-2": "ISO 3166-2:GM",
+		"中文名称": "冈比亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg"
+	},
+	{
+		"英文短名称": "Georgia",
+		"二位代码": "GE",
+		"三位代码": "GEO",
+		"数字代码": "268",
+		"ISO 3166-2": "ISO 3166-2:GE",
+		"中文名称": "格鲁吉亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg"
+	},
+	{
+		"英文短名称": "Germany",
+		"二位代码": "DE",
+		"三位代码": "DEU",
+		"数字代码": "276",
+		"ISO 3166-2": "ISO 3166-2:DE",
+		"中文名称": "德国",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg"
+	},
+	{
+		"英文短名称": "Ghana",
+		"二位代码": "GH",
+		"三位代码": "GHA",
+		"数字代码": "288",
+		"ISO 3166-2": "ISO 3166-2:GH",
+		"中文名称": "加纳",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg"
+	},
+	{
+		"英文短名称": "Gibraltar",
+		"二位代码": "GI",
+		"三位代码": "GIB",
+		"数字代码": "292",
+		"ISO 3166-2": "ISO 3166-2:GI",
+		"中文名称": "直布罗陀",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/0/02/Flag_of_Gibraltar.svg"
+	},
+	{
+		"英文短名称": "Greece",
+		"二位代码": "GR",
+		"三位代码": "GRC",
+		"数字代码": "300",
+		"ISO 3166-2": "ISO 3166-2:GR",
+		"中文名称": "希腊",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg"
+	},
+	{
+		"英文短名称": "Greenland",
+		"二位代码": "GL",
+		"三位代码": "GRL",
+		"数字代码": "304",
+		"ISO 3166-2": "ISO 3166-2:GL",
+		"中文名称": "格陵兰",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_Greenland.svg"
+	},
+	{
+		"英文短名称": "Grenada",
+		"二位代码": "GD",
+		"三位代码": "GRD",
+		"数字代码": "308",
+		"ISO 3166-2": "ISO 3166-2:GD",
+		"中文名称": "格林纳达",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Grenada.svg"
+	},
+	{
+		"英文短名称": "Guadeloupe",
+		"二位代码": "GP",
+		"三位代码": "GLP",
+		"数字代码": "312",
+		"ISO 3166-2": "ISO 3166-2:GP",
+		"中文名称": "瓜德罗普",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Flag_of_Guadeloupe_%28local%29_variant.svg"
+	},
+	{
+		"英文短名称": "Guam",
+		"二位代码": "GU",
+		"三位代码": "GUM",
+		"数字代码": "316",
+		"ISO 3166-2": "ISO 3166-2:GU",
+		"中文名称": "关岛",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Guam.svg"
+	},
+	{
+		"英文短名称": "Guatemala",
+		"二位代码": "GT",
+		"三位代码": "GTM",
+		"数字代码": "320",
+		"ISO 3166-2": "ISO 3166-2:GT",
+		"中文名称": "危地马拉",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg"
+	},
+	{
+		"英文短名称": "Guernsey",
+		"二位代码": "GG",
+		"三位代码": "GGY",
+		"数字代码": "831",
+		"ISO 3166-2": "ISO 3166-2:GG",
+		"中文名称": "根西",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Guernsey.svg"
+	},
+	{
+		"英文短名称": "Guinea",
+		"二位代码": "GN",
+		"三位代码": "GIN",
+		"数字代码": "324",
+		"ISO 3166-2": "ISO 3166-2:GN",
+		"中文名称": "几内亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Guinea.svg"
+	},
+	{
+		"英文短名称": "Guinea-Bissau",
+		"二位代码": "GW",
+		"三位代码": "GNB",
+		"数字代码": "624",
+		"ISO 3166-2": "ISO 3166-2:GW",
+		"中文名称": "几内亚比绍",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Guinea-Bissau.svg"
+	},
+	{
+		"英文短名称": "Guyana",
+		"二位代码": "GY",
+		"三位代码": "GUY",
+		"数字代码": "328",
+		"ISO 3166-2": "ISO 3166-2:GY",
+		"中文名称": "圭亚那",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_Guyana.svg"
+	},
+	{
+		"英文短名称": "Haiti",
+		"二位代码": "HT",
+		"三位代码": "HTI",
+		"数字代码": "332",
+		"ISO 3166-2": "ISO 3166-2:HT",
+		"中文名称": "海地",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Haiti.svg"
+	},
+	{
+		"英文短名称": "Heard Island and McDonald Islands",
+		"二位代码": "HM",
+		"三位代码": "HMD",
+		"数字代码": "334",
+		"ISO 3166-2": "ISO 3166-2:HM",
+		"中文名称": "赫德岛和麦克唐纳群岛",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg"
+	},
+	{
+		"英文短名称": "Holy See",
+		"二位代码": "VA",
+		"三位代码": "VAT",
+		"数字代码": "336",
+		"ISO 3166-2": "ISO 3166-2:VA",
+		"中文名称": "梵蒂冈",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg"
+	},
+	{
+		"英文短名称": "Honduras",
+		"二位代码": "HN",
+		"三位代码": "HND",
+		"数字代码": "340",
+		"ISO 3166-2": "ISO 3166-2:HN",
+		"中文名称": "洪都拉斯",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg"
+	},
+	{
+		"英文短名称": "Hong Kong",
+		"二位代码": "HK",
+		"三位代码": "HKG",
+		"数字代码": "344",
+		"ISO 3166-2": "ISO 3166-2:HK",
+		"中文名称": "香港",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Flag_of_Hong_Kong.svg"
+	},
+	{
+		"英文短名称": "Hungary",
+		"二位代码": "HU",
+		"三位代码": "HUN",
+		"数字代码": "348",
+		"ISO 3166-2": "ISO 3166-2:HU",
+		"中文名称": "匈牙利",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+	},
+	{
+		"英文短名称": "Iceland",
+		"二位代码": "IS",
+		"三位代码": "ISL",
+		"数字代码": "352",
+		"ISO 3166-2": "ISO 3166-2:IS",
+		"中文名称": "冰岛",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg"
+	},
+	{
+		"英文短名称": "India",
+		"二位代码": "IN",
+		"三位代码": "IND",
+		"数字代码": "356",
+		"ISO 3166-2": "ISO 3166-2:IN",
+		"中文名称": "印度",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg"
+	},
+	{
+		"英文短名称": "Indonesia",
+		"二位代码": "ID",
+		"三位代码": "IDN",
+		"数字代码": "360",
+		"ISO 3166-2": "ISO 3166-2:ID",
+		"中文名称": "印度尼西亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+	},
+	{
+		"英文短名称": "Iran (Islamic Republic of)",
+		"二位代码": "IR",
+		"三位代码": "IRN",
+		"数字代码": "364",
+		"ISO 3166-2": "ISO 3166-2:IR",
+		"中文名称": "伊朗",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
+	},
+	{
+		"英文短名称": "Iraq",
+		"二位代码": "IQ",
+		"三位代码": "IRQ",
+		"数字代码": "368",
+		"ISO 3166-2": "ISO 3166-2:IQ",
+		"中文名称": "伊拉克",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg"
+	},
+	{
+		"英文短名称": "Ireland",
+		"二位代码": "IE",
+		"三位代码": "IRL",
+		"数字代码": "372",
+		"ISO 3166-2": "ISO 3166-2:IE",
+		"中文名称": "爱尔兰",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg"
+	},
+	{
+		"英文短名称": "Isle of Man",
+		"二位代码": "IM",
+		"三位代码": "IMN",
+		"数字代码": "833",
+		"ISO 3166-2": "ISO 3166-2:IM",
+		"中文名称": "马恩岛",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_the_Isle_of_Man.svg"
+	},
+	{
+		"英文短名称": "Israel",
+		"二位代码": "IL",
+		"三位代码": "ISR",
+		"数字代码": "376",
+		"ISO 3166-2": "ISO 3166-2:IL",
+		"中文名称": "以色列",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg"
+	},
+	{
+		"英文短名称": "Italy",
+		"二位代码": "IT",
+		"三位代码": "ITA",
+		"数字代码": "380",
+		"ISO 3166-2": "ISO 3166-2:IT",
+		"中文名称": "意大利",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg"
+	},
+	{
+		"英文短名称": "Jamaica",
+		"二位代码": "JM",
+		"三位代码": "JAM",
+		"数字代码": "388",
+		"ISO 3166-2": "ISO 3166-2:JM",
+		"中文名称": "牙买加",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg"
+	},
+	{
+		"英文短名称": "Japan",
+		"二位代码": "JP",
+		"三位代码": "JPN",
+		"数字代码": "392",
+		"ISO 3166-2": "ISO 3166-2:JP",
+		"中文名称": "日本",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg"
+	},
+	{
+		"英文短名称": "Jersey",
+		"二位代码": "JE",
+		"三位代码": "JEY",
+		"数字代码": "832",
+		"ISO 3166-2": "ISO 3166-2:JE",
+		"中文名称": "泽西",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Flag_of_Jersey.svg"
+	},
+	{
+		"英文短名称": "Jordan",
+		"二位代码": "JO",
+		"三位代码": "JOR",
+		"数字代码": "400",
+		"ISO 3166-2": "ISO 3166-2:JO",
+		"中文名称": "约旦",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg"
+	},
+	{
+		"英文短名称": "Kazakhstan",
+		"二位代码": "KZ",
+		"三位代码": "KAZ",
+		"数字代码": "398",
+		"ISO 3166-2": "ISO 3166-2:KZ",
+		"中文名称": "哈萨克斯坦",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg"
+	},
+	{
+		"英文短名称": "Kenya",
+		"二位代码": "KE",
+		"三位代码": "KEN",
+		"数字代码": "404",
+		"ISO 3166-2": "ISO 3166-2:KE",
+		"中文名称": "肯尼亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg"
+	},
+	{
+		"英文短名称": "Kiribati",
+		"二位代码": "KI",
+		"三位代码": "KIR",
+		"数字代码": "296",
+		"ISO 3166-2": "ISO 3166-2:KI",
+		"中文名称": "基里巴斯",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kiribati.svg"
+	},
+	{
+		"英文短名称": "Korea (Democratic People's Republic of)",
+		"二位代码": "KP",
+		"三位代码": "PRK",
+		"数字代码": "408",
+		"ISO 3166-2": "ISO 3166-2:KP",
+		"中文名称": "朝鲜",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/5/51/Flag_of_North_Korea.svg"
+	},
+	{
+		"英文短名称": "Korea (Republic of)",
+		"二位代码": "KR",
+		"三位代码": "KOR",
+		"数字代码": "410",
+		"ISO 3166-2": "ISO 3166-2:KR",
+		"中文名称": "韩国",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg"
+	},
+	{
+		"英文短名称": "Kuwait",
+		"二位代码": "KW",
+		"三位代码": "KWT",
+		"数字代码": "414",
+		"ISO 3166-2": "ISO 3166-2:KW",
+		"中文名称": "科威特",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg"
+	},
+	{
+		"英文短名称": "Kyrgyzstan",
+		"二位代码": "KG",
+		"三位代码": "KGZ",
+		"数字代码": "417",
+		"ISO 3166-2": "ISO 3166-2:KG",
+		"中文名称": "吉尔吉斯斯坦",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg"
+	},
+	{
+		"英文短名称": "Lao People's Democratic Republic",
+		"二位代码": "LA",
+		"三位代码": "LAO",
+		"数字代码": "418",
+		"ISO 3166-2": "ISO 3166-2:LA",
+		"中文名称": "老挝",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg"
+	},
+	{
+		"英文短名称": "Latvia",
+		"二位代码": "LV",
+		"三位代码": "LVA",
+		"数字代码": "428",
+		"ISO 3166-2": "ISO 3166-2:LV",
+		"中文名称": "拉脱维亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg"
+	},
+	{
+		"英文短名称": "Lebanon",
+		"二位代码": "LB",
+		"三位代码": "LBN",
+		"数字代码": "422",
+		"ISO 3166-2": "ISO 3166-2:LB",
+		"中文名称": "黎巴嫩",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg"
+	},
+	{
+		"英文短名称": "Lesotho",
+		"二位代码": "LS",
+		"三位代码": "LSO",
+		"数字代码": "426",
+		"ISO 3166-2": "ISO 3166-2:LS",
+		"中文名称": "莱索托",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_Lesotho.svg"
+	},
+	{
+		"英文短名称": "Liberia",
+		"二位代码": "LR",
+		"三位代码": "LBR",
+		"数字代码": "430",
+		"ISO 3166-2": "ISO 3166-2:LR",
+		"中文名称": "利比里亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg"
+	},
+	{
+		"英文短名称": "Libya",
+		"二位代码": "LY",
+		"三位代码": "LBY",
+		"数字代码": "434",
+		"ISO 3166-2": "ISO 3166-2:LY",
+		"中文名称": "利比亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg"
+	},
+	{
+		"英文短名称": "Liechtenstein",
+		"二位代码": "LI",
+		"三位代码": "LIE",
+		"数字代码": "438",
+		"ISO 3166-2": "ISO 3166-2:LI",
+		"中文名称": "列支敦士登",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg"
+	},
+	{
+		"英文短名称": "Lithuania",
+		"二位代码": "LT",
+		"三位代码": "LTU",
+		"数字代码": "440",
+		"ISO 3166-2": "ISO 3166-2:LT",
+		"中文名称": "立陶宛",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg"
+	},
+	{
+		"英文短名称": "Luxembourg",
+		"二位代码": "LU",
+		"三位代码": "LUX",
+		"数字代码": "442",
+		"ISO 3166-2": "ISO 3166-2:LU",
+		"中文名称": "卢森堡",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg"
+	},
+	{
+		"英文短名称": "Macao",
+		"二位代码": "MO",
+		"三位代码": "MAC",
+		"数字代码": "446",
+		"ISO 3166-2": "ISO 3166-2:MO",
+		"中文名称": "澳门",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/6/63/Flag_of_Macau.svg"
+	},
+	{
+		"英文短名称": "Madagascar",
+		"二位代码": "MG",
+		"三位代码": "MDG",
+		"数字代码": "450",
+		"ISO 3166-2": "ISO 3166-2:MG",
+		"中文名称": "马达加斯加",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg"
+	},
+	{
+		"英文短名称": "Malawi",
+		"二位代码": "MW",
+		"三位代码": "MWI",
+		"数字代码": "454",
+		"ISO 3166-2": "ISO 3166-2:MW",
+		"中文名称": "马拉维",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg"
+	},
+	{
+		"英文短名称": "Malaysia",
+		"二位代码": "MY",
+		"三位代码": "MYS",
+		"数字代码": "458",
+		"ISO 3166-2": "ISO 3166-2:MY",
+		"中文名称": "马来西亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg"
+	},
+	{
+		"英文短名称": "Maldives",
+		"二位代码": "MV",
+		"三位代码": "MDV",
+		"数字代码": "462",
+		"ISO 3166-2": "ISO 3166-2:MV",
+		"中文名称": "马尔代夫",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg"
+	},
+	{
+		"英文短名称": "Mali",
+		"二位代码": "ML",
+		"三位代码": "MLI",
+		"数字代码": "466",
+		"ISO 3166-2": "ISO 3166-2:ML",
+		"中文名称": "马里",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg"
+	},
+	{
+		"英文短名称": "Malta",
+		"二位代码": "MT",
+		"三位代码": "MLT",
+		"数字代码": "470",
+		"ISO 3166-2": "ISO 3166-2:MT",
+		"中文名称": "马耳他",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg"
+	},
+	{
+		"英文短名称": "Marshall Islands",
+		"二位代码": "MH",
+		"三位代码": "MHL",
+		"数字代码": "584",
+		"ISO 3166-2": "ISO 3166-2:MH",
+		"中文名称": "马绍尔群岛",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_the_Marshall_Islands.svg"
+	},
+	{
+		"英文短名称": "Martinique",
+		"二位代码": "MQ",
+		"三位代码": "MTQ",
+		"数字代码": "474",
+		"ISO 3166-2": "ISO 3166-2:MQ",
+		"中文名称": "马提尼克",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag-of-Martinique.svg"
+	},
+	{
+		"英文短名称": "Mauritania",
+		"二位代码": "MR",
+		"三位代码": "MRT",
+		"数字代码": "478",
+		"ISO 3166-2": "ISO 3166-2:MR",
+		"中文名称": "毛里塔尼亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg"
+	},
+	{
+		"英文短名称": "Mauritius",
+		"二位代码": "MU",
+		"三位代码": "MUS",
+		"数字代码": "480",
+		"ISO 3166-2": "ISO 3166-2:MU",
+		"中文名称": "毛里求斯",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Mauritius.svg"
+	},
+	{
+		"英文短名称": "Mayotte",
+		"二位代码": "YT",
+		"三位代码": "MYT",
+		"数字代码": "175",
+		"ISO 3166-2": "ISO 3166-2:YT",
+		"中文名称": "马约特",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_Mayotte_%28local%29.svg"
+	},
+	{
+		"英文短名称": "Mexico",
+		"二位代码": "MX",
+		"三位代码": "MEX",
+		"数字代码": "484",
+		"ISO 3166-2": "ISO 3166-2:MX",
+		"中文名称": "墨西哥",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
+	},
+	{
+		"英文短名称": "Micronesia (Federated States of)",
+		"二位代码": "FM",
+		"三位代码": "FSM",
+		"数字代码": "583",
+		"ISO 3166-2": "ISO 3166-2:FM",
+		"中文名称": "密克罗尼西亚联邦",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg"
+	},
+	{
+		"英文短名称": "Moldova (Republic of)",
+		"二位代码": "MD",
+		"三位代码": "MDA",
+		"数字代码": "498",
+		"ISO 3166-2": "ISO 3166-2:MD",
+		"中文名称": "摩尔多瓦",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg"
+	},
+	{
+		"英文短名称": "Monaco",
+		"二位代码": "MC",
+		"三位代码": "MCO",
+		"数字代码": "492",
+		"ISO 3166-2": "ISO 3166-2:MC",
+		"中文名称": "摩纳哥",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg"
+	},
+	{
+		"英文短名称": "Mongolia",
+		"二位代码": "MN",
+		"三位代码": "MNG",
+		"数字代码": "496",
+		"ISO 3166-2": "ISO 3166-2:MN",
+		"中文名称": "蒙古国",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg"
+	},
+	{
+		"英文短名称": "Montenegro",
+		"二位代码": "ME",
+		"三位代码": "MNE",
+		"数字代码": "499",
+		"ISO 3166-2": "ISO 3166-2:ME",
+		"中文名称": "黑山",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg"
+	},
+	{
+		"英文短名称": "Montserrat",
+		"二位代码": "MS",
+		"三位代码": "MSR",
+		"数字代码": "500",
+		"ISO 3166-2": "ISO 3166-2:MS",
+		"中文名称": "蒙特塞拉特",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Montserrat.svg"
+	},
+	{
+		"英文短名称": "Morocco",
+		"二位代码": "MA",
+		"三位代码": "MAR",
+		"数字代码": "504",
+		"ISO 3166-2": "ISO 3166-2:MA",
+		"中文名称": "摩洛哥",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg"
+	},
+	{
+		"英文短名称": "Mozambique",
+		"二位代码": "MZ",
+		"三位代码": "MOZ",
+		"数字代码": "508",
+		"ISO 3166-2": "ISO 3166-2:MZ",
+		"中文名称": "莫桑比克",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg"
+	},
+	{
+		"英文短名称": "Myanmar",
+		"二位代码": "MM",
+		"三位代码": "MMR",
+		"数字代码": "104",
+		"ISO 3166-2": "ISO 3166-2:MM",
+		"中文名称": "缅甸",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg"
+	},
+	{
+		"英文短名称": "Namibia",
+		"二位代码": "NA",
+		"三位代码": "NAM",
+		"数字代码": "516",
+		"ISO 3166-2": "ISO 3166-2:NA",
+		"中文名称": "纳米比亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg"
+	},
+	{
+		"英文短名称": "Nauru",
+		"二位代码": "NR",
+		"三位代码": "NRU",
+		"数字代码": "520",
+		"ISO 3166-2": "ISO 3166-2:NR",
+		"中文名称": "瑙鲁",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Nauru.svg"
+	},
+	{
+		"英文短名称": "Nepal",
+		"二位代码": "NP",
+		"三位代码": "NPL",
+		"数字代码": "524",
+		"ISO 3166-2": "ISO 3166-2:NP",
+		"中文名称": "尼泊尔",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg"
+	},
+	{
+		"英文短名称": "Netherlands",
+		"二位代码": "NL",
+		"三位代码": "NLD",
+		"数字代码": "528",
+		"ISO 3166-2": "ISO 3166-2:NL",
+		"中文名称": "荷兰",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg"
+	},
+	{
+		"英文短名称": "New Caledonia",
+		"二位代码": "NC",
+		"三位代码": "NCL",
+		"数字代码": "540",
+		"ISO 3166-2": "ISO 3166-2:NC",
+		"中文名称": "新喀里多尼亚",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_FLNKS.svg"
+	},
+	{
+		"英文短名称": "New Zealand",
+		"二位代码": "NZ",
+		"三位代码": "NZL",
+		"数字代码": "554",
+		"ISO 3166-2": "ISO 3166-2:NZ",
+		"中文名称": "新西兰",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg"
+	},
+	{
+		"英文短名称": "Nicaragua",
+		"二位代码": "NI",
+		"三位代码": "NIC",
+		"数字代码": "558",
+		"ISO 3166-2": "ISO 3166-2:NI",
+		"中文名称": "尼加拉瓜",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg"
+	},
+	{
+		"英文短名称": "Niger",
+		"二位代码": "NE",
+		"三位代码": "NER",
+		"数字代码": "562",
+		"ISO 3166-2": "ISO 3166-2:NE",
+		"中文名称": "尼日尔",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg"
+	},
+	{
+		"英文短名称": "Nigeria",
+		"二位代码": "NG",
+		"三位代码": "NGA",
+		"数字代码": "566",
+		"ISO 3166-2": "ISO 3166-2:NG",
+		"中文名称": "尼日利亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+	},
+	{
+		"英文短名称": "Niue",
+		"二位代码": "NU",
+		"三位代码": "NIU",
+		"数字代码": "570",
+		"ISO 3166-2": "ISO 3166-2:NU",
+		"中文名称": "纽埃",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Niue.svg"
+	},
+	{
+		"英文短名称": "Norfolk Island",
+		"二位代码": "NF",
+		"三位代码": "NFK",
+		"数字代码": "574",
+		"ISO 3166-2": "ISO 3166-2:NF",
+		"中文名称": "诺福克岛",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Norfolk_Island.svg"
+	},
+	{
+		"英文短名称": "North Macedonia",
+		"二位代码": "MK",
+		"三位代码": "MKD",
+		"数字代码": "807",
+		"ISO 3166-2": "ISO 3166-2:MK",
+		"中文名称": "北马其顿",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg"
+	},
+	{
+		"英文短名称": "Northern Mariana Islands",
+		"二位代码": "MP",
+		"三位代码": "MNP",
+		"数字代码": "580",
+		"ISO 3166-2": "ISO 3166-2:MP",
+		"中文名称": "北马里亚纳群岛",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Flag_of_the_Northern_Mariana_Islands.svg"
+	},
+	{
+		"英文短名称": "Norway",
+		"二位代码": "NO",
+		"三位代码": "NOR",
+		"数字代码": "578",
+		"ISO 3166-2": "ISO 3166-2:NO",
+		"中文名称": "挪威",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg"
+	},
+	{
+		"英文短名称": "Oman",
+		"二位代码": "OM",
+		"三位代码": "OMN",
+		"数字代码": "512",
+		"ISO 3166-2": "ISO 3166-2:OM",
+		"中文名称": "阿曼",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg"
+	},
+	{
+		"英文短名称": "Pakistan",
+		"二位代码": "PK",
+		"三位代码": "PAK",
+		"数字代码": "586",
+		"ISO 3166-2": "ISO 3166-2:PK",
+		"中文名称": "巴基斯坦",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+	},
+	{
+		"英文短名称": "Palau",
+		"二位代码": "PW",
+		"三位代码": "PLW",
+		"数字代码": "585",
+		"ISO 3166-2": "ISO 3166-2:PW",
+		"中文名称": "帕劳",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg"
+	},
+	{
+		"英文短名称": "Palestine, State of",
+		"二位代码": "PS",
+		"三位代码": "PSE",
+		"数字代码": "275",
+		"ISO 3166-2": "ISO 3166-2:PS",
+		"中文名称": "巴勒斯坦",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg"
+	},
+	{
+		"英文短名称": "Panama",
+		"二位代码": "PA",
+		"三位代码": "PAN",
+		"数字代码": "591",
+		"ISO 3166-2": "ISO 3166-2:PA",
+		"中文名称": "巴拿马",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg"
+	},
+	{
+		"英文短名称": "Papua New Guinea",
+		"二位代码": "PG",
+		"三位代码": "PNG",
+		"数字代码": "598",
+		"ISO 3166-2": "ISO 3166-2:PG",
+		"中文名称": "巴布亚新几内亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg"
+	},
+	{
+		"英文短名称": "Paraguay",
+		"二位代码": "PY",
+		"三位代码": "PRY",
+		"数字代码": "600",
+		"ISO 3166-2": "ISO 3166-2:PY",
+		"中文名称": "巴拉圭",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg"
+	},
+	{
+		"英文短名称": "Peru",
+		"二位代码": "PE",
+		"三位代码": "PER",
+		"数字代码": "604",
+		"ISO 3166-2": "ISO 3166-2:PE",
+		"中文名称": "秘鲁",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg"
+	},
+	{
+		"英文短名称": "Philippines",
+		"二位代码": "PH",
+		"三位代码": "PHL",
+		"数字代码": "608",
+		"ISO 3166-2": "ISO 3166-2:PH",
+		"中文名称": "菲律宾",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg"
+	},
+	{
+		"英文短名称": "Pitcairn",
+		"二位代码": "PN",
+		"三位代码": "PCN",
+		"数字代码": "612",
+		"ISO 3166-2": "ISO 3166-2:PN",
+		"中文名称": "皮特凯恩群岛",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_the_Pitcairn_Islands.svg"
+	},
+	{
+		"英文短名称": "Poland",
+		"二位代码": "PL",
+		"三位代码": "POL",
+		"数字代码": "616",
+		"ISO 3166-2": "ISO 3166-2:PL",
+		"中文名称": "波兰",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg"
+	},
+	{
+		"英文短名称": "Portugal",
+		"二位代码": "PT",
+		"三位代码": "PRT",
+		"数字代码": "620",
+		"ISO 3166-2": "ISO 3166-2:PT",
+		"中文名称": "葡萄牙",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"
+	},
+	{
+		"英文短名称": "Puerto Rico",
+		"二位代码": "PR",
+		"三位代码": "PRI",
+		"数字代码": "630",
+		"ISO 3166-2": "ISO 3166-2:PR",
+		"中文名称": "波多黎各",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_Puerto_Rico.svg"
+	},
+	{
+		"英文短名称": "Qatar",
+		"二位代码": "QA",
+		"三位代码": "QAT",
+		"数字代码": "634",
+		"ISO 3166-2": "ISO 3166-2:QA",
+		"中文名称": "卡塔尔",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg"
+	},
+	{
+		"英文短名称": "Réunion",
+		"二位代码": "RE",
+		"三位代码": "REU",
+		"数字代码": "638",
+		"ISO 3166-2": "ISO 3166-2:RE",
+		"中文名称": "留尼汪",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Proposed_flag_of_R%C3%A9union_%28VAR%29.svg"
+	},
+	{
+		"英文短名称": "Romania",
+		"二位代码": "RO",
+		"三位代码": "ROU",
+		"数字代码": "642",
+		"ISO 3166-2": "ISO 3166-2:RO",
+		"中文名称": "罗马尼亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg"
+	},
+	{
+		"英文短名称": "Russian Federation",
+		"二位代码": "RU",
+		"三位代码": "RUS",
+		"数字代码": "643",
+		"ISO 3166-2": "ISO 3166-2:RU",
+		"中文名称": "俄罗斯",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg"
+	},
+	{
+		"英文短名称": "Rwanda",
+		"二位代码": "RW",
+		"三位代码": "RWA",
+		"数字代码": "646",
+		"ISO 3166-2": "ISO 3166-2:RW",
+		"中文名称": "卢旺达",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg"
+	},
+	{
+		"英文短名称": "Saint Barthélemy",
+		"二位代码": "BL",
+		"三位代码": "BLM",
+		"数字代码": "652",
+		"ISO 3166-2": "ISO 3166-2:BL",
+		"中文名称": "圣巴泰勒米",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Saint_Barth%C3%A9lemy_%28local%29.svg"
+	},
+	{
+		"英文短名称": "Saint Helena, Ascension and Tristan da Cunha",
+		"二位代码": "SH",
+		"三位代码": "SHN",
+		"数字代码": "654",
+		"ISO 3166-2": "ISO 3166-2:SH",
+		"中文名称": "圣赫勒拿、阿森松和特里斯坦-达库尼亚",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"
+	},
+	{
+		"英文短名称": "Saint Kitts and Nevis",
+		"二位代码": "KN",
+		"三位代码": "KNA",
+		"数字代码": "659",
+		"ISO 3166-2": "ISO 3166-2:KN",
+		"中文名称": "圣基茨和尼维斯",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg"
+	},
+	{
+		"英文短名称": "Saint Lucia",
+		"二位代码": "LC",
+		"三位代码": "LCA",
+		"数字代码": "662",
+		"ISO 3166-2": "ISO 3166-2:LC",
+		"中文名称": "圣卢西亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg"
+	},
+	{
+		"英文短名称": "Saint Martin (French part)",
+		"二位代码": "MF",
+		"三位代码": "MAF",
+		"数字代码": "663",
+		"ISO 3166-2": "ISO 3166-2:MF",
+		"中文名称": "法属圣马丁",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Local_flag_of_the_Collectivity_of_Saint_Martin.svg"
+	},
+	{
+		"英文短名称": "Saint Pierre and Miquelon",
+		"二位代码": "PM",
+		"三位代码": "SPM",
+		"数字代码": "666",
+		"ISO 3166-2": "ISO 3166-2:PM",
+		"中文名称": "圣皮埃尔和密克隆",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_Saint-Pierre_and_Miquelon.svg"
+	},
+	{
+		"英文短名称": "Saint Vincent and the Grenadines",
+		"二位代码": "VC",
+		"三位代码": "VCT",
+		"数字代码": "670",
+		"ISO 3166-2": "ISO 3166-2:VC",
+		"中文名称": "圣文森特和格林纳丁斯",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg"
+	},
+	{
+		"英文短名称": "Samoa",
+		"二位代码": "WS",
+		"三位代码": "WSM",
+		"数字代码": "882",
+		"ISO 3166-2": "ISO 3166-2:WS",
+		"中文名称": "萨摩亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Samoa.svg"
+	},
+	{
+		"英文短名称": "San Marino",
+		"二位代码": "SM",
+		"三位代码": "SMR",
+		"数字代码": "674",
+		"ISO 3166-2": "ISO 3166-2:SM",
+		"中文名称": "圣马力诺",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg"
+	},
+	{
+		"英文短名称": "Sao Tome and Principe",
+		"二位代码": "ST",
+		"三位代码": "STP",
+		"数字代码": "678",
+		"ISO 3166-2": "ISO 3166-2:ST",
+		"中文名称": "圣多美和普林西比",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg"
+	},
+	{
+		"英文短名称": "Saudi Arabia",
+		"二位代码": "SA",
+		"三位代码": "SAU",
+		"数字代码": "682",
+		"ISO 3166-2": "ISO 3166-2:SA",
+		"中文名称": "沙特阿拉伯",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg"
+	},
+	{
+		"英文短名称": "Senegal",
+		"二位代码": "SN",
+		"三位代码": "SEN",
+		"数字代码": "686",
+		"ISO 3166-2": "ISO 3166-2:SN",
+		"中文名称": "塞内加尔",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg"
+	},
+	{
+		"英文短名称": "Serbia",
+		"二位代码": "RS",
+		"三位代码": "SRB",
+		"数字代码": "688",
+		"ISO 3166-2": "ISO 3166-2:RS",
+		"中文名称": "塞尔维亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg"
+	},
+	{
+		"英文短名称": "Seychelles",
+		"二位代码": "SC",
+		"三位代码": "SYC",
+		"数字代码": "690",
+		"ISO 3166-2": "ISO 3166-2:SC",
+		"中文名称": "塞舌尔",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg"
+	},
+	{
+		"英文短名称": "Sierra Leone",
+		"二位代码": "SL",
+		"三位代码": "SLE",
+		"数字代码": "694",
+		"ISO 3166-2": "ISO 3166-2:SL",
+		"中文名称": "塞拉利昂",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg"
+	},
+	{
+		"英文短名称": "Singapore",
+		"二位代码": "SG",
+		"三位代码": "SGP",
+		"数字代码": "702",
+		"ISO 3166-2": "ISO 3166-2:SG",
+		"中文名称": "新加坡",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg"
+	},
+	{
+		"英文短名称": "Sint Maarten (Dutch part)",
+		"二位代码": "SX",
+		"三位代码": "SXM",
+		"数字代码": "534",
+		"ISO 3166-2": "ISO 3166-2:SX",
+		"中文名称": "荷属圣马丁",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Sint_Maarten.svg"
+	},
+	{
+		"英文短名称": "Slovakia",
+		"二位代码": "SK",
+		"三位代码": "SVK",
+		"数字代码": "703",
+		"ISO 3166-2": "ISO 3166-2:SK",
+		"中文名称": "斯洛伐克",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg"
+	},
+	{
+		"英文短名称": "Slovenia",
+		"二位代码": "SI",
+		"三位代码": "SVN",
+		"数字代码": "705",
+		"ISO 3166-2": "ISO 3166-2:SI",
+		"中文名称": "斯洛文尼亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg"
+	},
+	{
+		"英文短名称": "Solomon Islands",
+		"二位代码": "SB",
+		"三位代码": "SLB",
+		"数字代码": "090",
+		"ISO 3166-2": "ISO 3166-2:SB",
+		"中文名称": "所罗门群岛",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Solomon_Islands.svg"
+	},
+	{
+		"英文短名称": "Somalia",
+		"二位代码": "SO",
+		"三位代码": "SOM",
+		"数字代码": "706",
+		"ISO 3166-2": "ISO 3166-2:SO",
+		"中文名称": "索马里",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg"
+	},
+	{
+		"英文短名称": "South Africa",
+		"二位代码": "ZA",
+		"三位代码": "ZAF",
+		"数字代码": "710",
+		"ISO 3166-2": "ISO 3166-2:ZA",
+		"中文名称": "南非",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg"
+	},
+	{
+		"英文短名称": "South Georgia and the South Sandwich Islands",
+		"二位代码": "GS",
+		"三位代码": "SGS",
+		"数字代码": "239",
+		"ISO 3166-2": "ISO 3166-2:GS",
+		"中文名称": "南乔治亚和南桑威奇群岛",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg"
+	},
+	{
+		"英文短名称": "South Sudan",
+		"二位代码": "SS",
+		"三位代码": "SSD",
+		"数字代码": "728",
+		"ISO 3166-2": "ISO 3166-2:SS",
+		"中文名称": "南苏丹",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_South_Sudan.svg"
+	},
+	{
+		"英文短名称": "Spain",
+		"二位代码": "ES",
+		"三位代码": "ESP",
+		"数字代码": "724",
+		"ISO 3166-2": "ISO 3166-2:ES",
+		"中文名称": "西班牙",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg"
+	},
+	{
+		"英文短名称": "Sri Lanka",
+		"二位代码": "LK",
+		"三位代码": "LKA",
+		"数字代码": "144",
+		"ISO 3166-2": "ISO 3166-2:LK",
+		"中文名称": "斯里兰卡",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg"
+	},
+	{
+		"英文短名称": "Sudan",
+		"二位代码": "SD",
+		"三位代码": "SDN",
+		"数字代码": "729",
+		"ISO 3166-2": "ISO 3166-2:SD",
+		"中文名称": "苏丹",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg"
+	},
+	{
+		"英文短名称": "Suriname",
+		"二位代码": "SR",
+		"三位代码": "SUR",
+		"数字代码": "740",
+		"ISO 3166-2": "ISO 3166-2:SR",
+		"中文名称": "苏里南",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg"
+	},
+	{
+		"英文短名称": "Svalbard and Jan Mayen",
+		"二位代码": "SJ",
+		"三位代码": "SJM",
+		"数字代码": "744",
+		"ISO 3166-2": "ISO 3166-2:SJ",
+		"中文名称": "斯瓦尔巴和扬马延",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg"
+	},
+	{
+		"英文短名称": "Sweden",
+		"二位代码": "SE",
+		"三位代码": "SWE",
+		"数字代码": "752",
+		"ISO 3166-2": "ISO 3166-2:SE",
+		"中文名称": "瑞典",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg"
+	},
+	{
+		"英文短名称": "Switzerland",
+		"二位代码": "CH",
+		"三位代码": "CHE",
+		"数字代码": "756",
+		"ISO 3166-2": "ISO 3166-2:CH",
+		"中文名称": "瑞士",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg"
+	},
+	{
+		"英文短名称": "Syrian Arab Republic",
+		"二位代码": "SY",
+		"三位代码": "SYR",
+		"数字代码": "760",
+		"ISO 3166-2": "ISO 3166-2:SY",
+		"中文名称": "叙利亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg"
+	},
+	{
+		"英文短名称": "Taiwan, Province of China",
+		"二位代码": "TW",
+		"三位代码": "TWN",
+		"数字代码": "158",
+		"ISO 3166-2": "ISO 3166-2:TW",
+		"中文名称": "中国台湾省",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/1/14/Flag_of_Chinese_Taipei_for_Olympic_games.svg"
+	},
+	{
+		"英文短名称": "Tajikistan",
+		"二位代码": "TJ",
+		"三位代码": "TJK",
+		"数字代码": "762",
+		"ISO 3166-2": "ISO 3166-2:TJ",
+		"中文名称": "塔吉克斯坦",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg"
+	},
+	{
+		"英文短名称": "Tanzania, United Republic of",
+		"二位代码": "TZ",
+		"三位代码": "TZA",
+		"数字代码": "834",
+		"ISO 3166-2": "ISO 3166-2:TZ",
+		"中文名称": "坦桑尼亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg"
+	},
+	{
+		"英文短名称": "Thailand",
+		"二位代码": "TH",
+		"三位代码": "THA",
+		"数字代码": "764",
+		"ISO 3166-2": "ISO 3166-2:TH",
+		"中文名称": "泰国",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg"
+	},
+	{
+		"英文短名称": "Timor-Leste",
+		"二位代码": "TL",
+		"三位代码": "TLS",
+		"数字代码": "626",
+		"ISO 3166-2": "ISO 3166-2:TL",
+		"中文名称": "东帝汶",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor.svg"
+	},
+	{
+		"英文短名称": "Togo",
+		"二位代码": "TG",
+		"三位代码": "TGO",
+		"数字代码": "768",
+		"ISO 3166-2": "ISO 3166-2:TG",
+		"中文名称": "多哥",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_Togo_%283-2%29.svg"
+	},
+	{
+		"英文短名称": "Tokelau",
+		"二位代码": "TK",
+		"三位代码": "TKL",
+		"数字代码": "772",
+		"ISO 3166-2": "ISO 3166-2:TK",
+		"中文名称": "托克劳",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Flag_of_Tokelau.svg"
+	},
+	{
+		"英文短名称": "Tonga",
+		"二位代码": "TO",
+		"三位代码": "TON",
+		"数字代码": "776",
+		"ISO 3166-2": "ISO 3166-2:TO",
+		"中文名称": "汤加",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Tonga.svg"
+	},
+	{
+		"英文短名称": "Trinidad and Tobago",
+		"二位代码": "TT",
+		"三位代码": "TTO",
+		"数字代码": "780",
+		"ISO 3166-2": "ISO 3166-2:TT",
+		"中文名称": "特立尼达和多巴哥",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg"
+	},
+	{
+		"英文短名称": "Tunisia",
+		"二位代码": "TN",
+		"三位代码": "TUN",
+		"数字代码": "788",
+		"ISO 3166-2": "ISO 3166-2:TN",
+		"中文名称": "突尼斯",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg"
+	},
+	{
+		"英文短名称": "Türkiye",
+		"二位代码": "TR",
+		"三位代码": "TUR",
+		"数字代码": "792",
+		"ISO 3166-2": "ISO 3166-2:TR",
+		"中文名称": "土耳其",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+	},
+	{
+		"英文短名称": "Turkmenistan",
+		"二位代码": "TM",
+		"三位代码": "TKM",
+		"数字代码": "795",
+		"ISO 3166-2": "ISO 3166-2:TM",
+		"中文名称": "土库曼斯坦",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg"
+	},
+	{
+		"英文短名称": "Turks and Caicos Islands",
+		"二位代码": "TC",
+		"三位代码": "TCA",
+		"数字代码": "796",
+		"ISO 3166-2": "ISO 3166-2:TC",
+		"中文名称": "特克斯和凯科斯群岛",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg"
+	},
+	{
+		"英文短名称": "Tuvalu",
+		"二位代码": "TV",
+		"三位代码": "TUV",
+		"数字代码": "798",
+		"ISO 3166-2": "ISO 3166-2:TV",
+		"中文名称": "图瓦卢",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tuvalu.svg"
+	},
+	{
+		"英文短名称": "Uganda",
+		"二位代码": "UG",
+		"三位代码": "UGA",
+		"数字代码": "800",
+		"ISO 3166-2": "ISO 3166-2:UG",
+		"中文名称": "乌干达",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg"
+	},
+	{
+		"英文短名称": "Ukraine",
+		"二位代码": "UA",
+		"三位代码": "UKR",
+		"数字代码": "804",
+		"ISO 3166-2": "ISO 3166-2:UA",
+		"中文名称": "乌克兰",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
+	},
+	{
+		"英文短名称": "United Arab Emirates",
+		"二位代码": "AE",
+		"三位代码": "ARE",
+		"数字代码": "784",
+		"ISO 3166-2": "ISO 3166-2:AE",
+		"中文名称": "阿联酋",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg"
+	},
+	{
+		"英文短名称": "United Kingdom of Great Britain and Northern Ireland",
+		"二位代码": "GB",
+		"三位代码": "GBR",
+		"数字代码": "826",
+		"ISO 3166-2": "ISO 3166-2:GB",
+		"中文名称": "英国",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"
+	},
+	{
+		"英文短名称": "United States of America",
+		"二位代码": "US",
+		"三位代码": "USA",
+		"数字代码": "840",
+		"ISO 3166-2": "ISO 3166-2:US",
+		"中文名称": "美国",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg"
+	},
+	{
+		"英文短名称": "United States Minor Outlying Islands",
+		"二位代码": "UM",
+		"三位代码": "UMI",
+		"数字代码": "581",
+		"ISO 3166-2": "ISO 3166-2:UM",
+		"中文名称": "美国本土外小岛屿",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg"
+	},
+	{
+		"英文短名称": "Uruguay",
+		"二位代码": "UY",
+		"三位代码": "URY",
+		"数字代码": "858",
+		"ISO 3166-2": "ISO 3166-2:UY",
+		"中文名称": "乌拉圭",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg"
+	},
+	{
+		"英文短名称": "Uzbekistan",
+		"二位代码": "UZ",
+		"三位代码": "UZB",
+		"数字代码": "860",
+		"ISO 3166-2": "ISO 3166-2:UZ",
+		"中文名称": "乌兹别克斯坦",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg"
+	},
+	{
+		"英文短名称": "Vanuatu",
+		"二位代码": "VU",
+		"三位代码": "VUT",
+		"数字代码": "548",
+		"ISO 3166-2": "ISO 3166-2:VU",
+		"中文名称": "瓦努阿图",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Vanuatu.svg"
+	},
+	{
+		"英文短名称": "Venezuela (Bolivarian Republic of)",
+		"二位代码": "VE",
+		"三位代码": "VEN",
+		"数字代码": "862",
+		"ISO 3166-2": "ISO 3166-2:VE",
+		"中文名称": "委内瑞拉",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg"
+	},
+	{
+		"英文短名称": "Viet Nam",
+		"二位代码": "VN",
+		"三位代码": "VNM",
+		"数字代码": "704",
+		"ISO 3166-2": "ISO 3166-2:VN",
+		"中文名称": "越南",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg"
+	},
+	{
+		"英文短名称": "Virgin Islands (British)",
+		"二位代码": "VG",
+		"三位代码": "VGB",
+		"数字代码": "092",
+		"ISO 3166-2": "ISO 3166-2:VG",
+		"中文名称": "英属维尔京群岛",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_British_Virgin_Islands.svg"
+	},
+	{
+		"英文短名称": "Virgin Islands (U.S.)",
+		"二位代码": "VI",
+		"三位代码": "VIR",
+		"数字代码": "850",
+		"ISO 3166-2": "ISO 3166-2:VI",
+		"中文名称": "美属维尔京群岛",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Flag_of_the_United_States_Virgin_Islands.svg"
+	},
+	{
+		"英文短名称": "Wallis and Futuna",
+		"二位代码": "WF",
+		"三位代码": "WLF",
+		"数字代码": "876",
+		"ISO 3166-2": "ISO 3166-2:WF",
+		"中文名称": "瓦利斯和富图纳",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Flag_of_Wallis_and_Futuna.svg"
+	},
+	{
+		"英文短名称": "Western Sahara",
+		"二位代码": "EH",
+		"三位代码": "ESH",
+		"数字代码": "732",
+		"ISO 3166-2": "ISO 3166-2:EH",
+		"中文名称": "西撒哈拉",
+		"ISO 3166 上标为独立主权": "否",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg"
+	},
+	{
+		"英文短名称": "Yemen",
+		"二位代码": "YE",
+		"三位代码": "YEM",
+		"数字代码": "887",
+		"ISO 3166-2": "ISO 3166-2:YE",
+		"中文名称": "也门",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg"
+	},
+	{
+		"英文短名称": "Zambia",
+		"二位代码": "ZM",
+		"三位代码": "ZMB",
+		"数字代码": "894",
+		"ISO 3166-2": "ISO 3166-2:ZM",
+		"中文名称": "赞比亚",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg"
+	},
+	{
+		"英文短名称": "Zimbabwe",
+		"二位代码": "ZW",
+		"三位代码": "ZWE",
+		"数字代码": "716",
+		"ISO 3166-2": "ISO 3166-2:ZW",
+		"中文名称": "津巴布韦",
+		"ISO 3166 上标为独立主权": "是",
+		"svg": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+	}
+]

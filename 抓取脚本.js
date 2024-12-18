@@ -14,8 +14,8 @@ const rows = Array.from(table.querySelectorAll('tbody tr')).map(row => {
 		[headers[4]]: cells[4].querySelector('a') ? cells[4].querySelector('a').textContent.trim() : cells[4].textContent.trim(),
 		[headers[5]]: cells[5].querySelector('a') ? cells[5].querySelector('a').textContent.trim() : cells[5].textContent.trim(),
 		[headers[6]]: cells[6].textContent.trim(),
-		"图片地址": cells[5].querySelector('img') ? cells[5].querySelector('img').src.replace(/(\d+x)/, '44px') : null
+		"svg": cells[5].querySelector('img') ? cells[5].querySelector('img').src.replace(/\/thumb/,'').replace(/\.svg\/.+$/,'.svg') : null
 	};
 });
-
+console.log(rows);
 copy(JSON.stringify(rows, null, '\t'));
